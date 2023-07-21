@@ -22,7 +22,7 @@ Dataset: La Liga Player Status Season 2022-2023
 Size: 543 rows and 15 columns
 
 ### Data Preview
-Insert Image here
+![Laliga Players](images/Data%20Preview.png.png)
 
 ## Data Preparation
 - Null Value Identification
@@ -31,35 +31,30 @@ Insert Image here
 - Checking for Outliers
 
 ## Data Visualization
-- Density Plot
-
-Average age of the players
+- Density Plot(Average age of the players)
 
 ![Average age of Players](images/Average%20age%20of%20players.png)
 
-- Histogram
-
-Average age of the players
-
-![Average age of Players](images/Average%20age%20of%20players.png)
+- Histogram (Count of the Number of Goals of players in different Bandwidth)
   
-- Bar Chart
+![Count of Players in the team](images/Histogram.png)
+  
+- Bar Chart(Total players in each team)
 
-Average age of the players
+![Total players in each team](images/Total%20players%20in%20each%20team.png.png)
 
-![Average age of Players](images/Average%20age%20of%20players.png)
+- Heatmap (Correlation Heatmap)
 
-- Heatmap
-
- Average age of the players
-
-![Average age of Players](images/Average%20age%20of%20players.png)
+![Correlation Heatmap](images/Hitmap.png)
 
 ## Conclusion:
 The best player for each position ie Goalkeeper, Defender, Midfielder and Striker ie
 Top players for each position looks like this:
 
- Average age of the players
+Best Player for each position
 
-![Average age of Players](images/Average%20age%20of%20players.png)
+![Best Player for each position](images/Best%20Player%20for%20each%20position.png)
+
+
+Note: For further details please check the Jupyter notebook file
 
