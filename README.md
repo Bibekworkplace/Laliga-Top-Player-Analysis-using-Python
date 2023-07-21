@@ -22,7 +22,7 @@ Dataset: La Liga Player Status Season 2022-2023
 Size: 543 rows and 15 columns
 
 ### Data Preview
-![Laliga Players](images/Data%20Preview.png.png)
+![Laliga Players](images/Data%20Preview.png)
 
 ## Data Preparation
 - Null Value Identification
@@ -41,7 +41,7 @@ Size: 543 rows and 15 columns
   
 - Bar Chart(Total players in each team)
 
-![Total players in each team](images/Total%20players%20in%20each%20team.png.png)
+![Total players in each team](images/Total%20players%20in%20each%20team.png)
 
 - Heatmap (Correlation Heatmap)
 
