@@ -1,6 +1,6 @@
 # Bibek portfolio
 
-# Project 1: Analysis of current Laliga players and create a team of Top players for each position 
+# Project 1: Analyse current Laliga players to create a team of Top players for each position 
 
 ## Problem statement
 We want to analyze teams and players for different positions, starting from Goalkeepers, all
